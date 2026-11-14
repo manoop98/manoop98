@@ -1,43 +1,48 @@
-### Hello World 👋 It's [Manoop!](https://github.com/manoop98)
+# Hello World 👋 I'm [Manoop!](https://github.com/manoop98)
 
-<br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manoopmadhu/">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@manooppta">
+    <img alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/manoopmadhu/">
-<img align="left" alt="Manoop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@manooppta">
-<img align="left" alt="Manoop | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+---
 
-<br/>
-<br/>
+Hi, I'm Manoop! 👋
 
-Hi, I'm Manoop 🙌, a **Site Reliability Engineer (SRE) at Redux India**. I specialize in **Kubernetes, AWS, Azure, and DevOps automation**, ensuring high availability and scalability of infrastructure. ❤✌
+I'm a **DevOps Engineer at Qubiqon**, passionate about cloud infrastructure, automation, and building reliable and scalable systems.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+I specialize in **Microsoft Azure, AWS, Kubernetes, Terraform, CI/CD automation, and Infrastructure as Code (IaC)**. I enjoy working on real-world infrastructure challenges, automating deployments, and improving system reliability.
 
-**Talking about Personal Stuffs:**
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-- 🔭 I’m currently working on **Kubernetes, AWS, Azure, and Ansible automation**.
-- 🌱 Learning **advanced DevOps practices & cloud security**.
-- 👯 Active in **DevOps and Cloud communities**.
-- 💬 Ask me about anything related to **DevOps, Cloud, or Kubernetes**.✌
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manoopmadhu/) | [Medium](https://medium.com/@manooppta)
-- ⚡ Check out my recent [Blogs](https://medium.com/@manooppta)
+### 🚀 About Me
 
-**Community Involvement**
-- Kubernetes Community
-- AWS User Group
-- DevOps Meetup Groups
+- 🔭 Currently working as a **DevOps Engineer at Qubiqon**.
+- ☁️ Working with **Azure, AWS, and Cloud Infrastructure**.
+- ⚙️ Building CI/CD pipelines using **Azure DevOps and GitHub Actions**.
+- 🐳 Working with **Docker, Kubernetes, and AKS**.
+- 🏗️ Automating infrastructure using **Terraform and Bicep**.
+- 📚 Continuously learning advanced DevOps, Kubernetes, and Cloud Security.
+- 💬 Ask me about **Azure, AWS, DevOps, Kubernetes, Terraform, and CI/CD**.
+- 📝 I share technical knowledge and learning experiences through [Medium](https://medium.com/@manooppta).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/manoopmadhu/).
 
-**Languages and Tools:**  
+### 🏆 Certifications
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: DevOps Engineer Expert (AZ-400)
+- Certified Kubernetes Administrator (CKA)
+- Asana Administrator Certificate
 
-![Manoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoop98&show_icons=true&hide_border=true)
+### 🛠️ Languages and Tools
+
+**Cloud Platforms**
+
+<p>
+ 
